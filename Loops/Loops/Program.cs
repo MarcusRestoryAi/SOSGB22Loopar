@@ -10,6 +10,7 @@ namespace Loops
             {
                 Console.WriteLine("Hello, World!");
                 Console.WriteLine("Person 2 is better than 1");
+                Console.WriteLine("Person 3 is not good");
             }
 
             Console.WriteLine("Mitten av programmet!");
