@@ -1,4 +1,6 @@
-﻿namespace Loops
+﻿using System;
+
+namespace Loops
 {
     internal class Program
     {
@@ -11,6 +13,14 @@
             }
 
             Console.WriteLine("Mitten av programmet!");
+
+            int x = 5;
+            if (x==5)
+                Console.WriteLine("Hej");
+            else
+                Console.WriteLine("Hej då");
+
+            
 
             Console.WriteLine("Slutet av programmet!");
 
